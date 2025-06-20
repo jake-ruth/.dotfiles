@@ -15,3 +15,10 @@ My configuration files, for Mac OS.
 0. Some example dotfiles:
 0. https://github.com/pedro-couto/dotfiles
 0. https://github.com/xero/dotfiles
+
+
+## NVIM
+
+### LSP
+https://github.com/dundalek/lazy-lsp.nvim
+
